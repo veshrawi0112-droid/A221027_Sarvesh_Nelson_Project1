@@ -9,26 +9,26 @@ FoodLink is a mobile application developed using Jetpack Compose that helps redu
 
 This Project Demonstrates:
 
-Material Design UI using Jetpack Compose
-Multi-screen navigation using Navigation Compose
-Shared state management using ViewModel
-User registration and profile management
-Real-time data sharing between screens
-Expandable food listing cards with animations
-SDG 12 awareness: Responsible Consumption and Production
+1-Material Design UI using Jetpack Compose
+2-Multi-screen navigation using Navigation Compose
+3-Shared state management using ViewModel
+4-User registration and profile management
+5-Real-time data sharing between screens
+6-Expandable food listing cards with animations
+7-SDG 12 awareness: Responsible Consumption and Production
 
 Features Included:
-User Registration and Login
-Editable User Profile
-Food Donation Form
-Donation Preview Screen
-Donation Confirmation Screen
-Donation Summary Screen
-Home Screen with expandable food cards
-Bottom Navigation Bar
-Shared ViewModel State across screens
-Smooth Navigation between 5+ screens
-Material Design Components and UI Styling
+1-User Registration and Login
+2-Editable User Profile
+3-Food Donation Form
+4-Donation Preview Screen
+5-Donation Confirmation Screen
+6-Donation Summary Screen
+7-Home Screen with expandable food cards
+8-Bottom Navigation Bar
+9-Shared ViewModel State across screens
+10-Smooth Navigation between 5+ screens
+11-Material Design Components and UI Styling
 
 SDG 12 – Responsible Consumption and Production
 The application encourages reducing food waste by making food donation easier and more accessible for communities.
